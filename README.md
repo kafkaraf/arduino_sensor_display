@@ -1,4 +1,4 @@
-# Testing Arduino(Sensor-Display)*
+# Testing Arduino(Sensor-Display)
 Proyek Arduino untuk testing sensor JSN-HC04 (ultrasonik waterproof) dengan menampilkan data jarak secara real-time pada LCD I2C 2×16. Proyek ini sebagai persiapan Final Project sistem monitoring banjir untuk mengetahui tinggi air di lokasi rawan banjir.
 
 **Flow :**
